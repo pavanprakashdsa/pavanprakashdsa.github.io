@@ -1,0 +1,53 @@
+*{
+    background-origin: content-box;
+}
+
+a{
+    text-decoration: none;
+}
+.content{
+    margin-top: 100px;
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* border: 1px black solid; */
+    display: flex;
+    flex-direction: row 10px 1f;
+    align-items: center;
+}
+
+
+.text{
+    /* asdas */
+    border-radius: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 900px;
+    font-family: "popins", sans-serif;
+    transition: background-color 0.5s, color 0.5s;
+    border: 3px rgb(255, 255, 255) solid;
+    margin-bottom: 20px;
+    transition: background-color .5s, color .5s, border 1s;
+}
+/*  */
+.text:hover{
+    border: 3px rgb(6, 172, 255) solid;
+    /* background-color: black; */
+    /* color: white; */
+}
+
+.slogan{
+    margin-top: 0px;
+    color: grey;
+    margin-bottom: 30px;
+}
+
+.head{
+    font-size: 50px;
+    font-weight: 900;
+    font-variant:small-caps;
+    margin-bottom: 0px;
+}

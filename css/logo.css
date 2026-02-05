@@ -1,0 +1,15 @@
+.logo{
+    position: relative;
+    /* padding-right: 950px; */
+    padding-left: 20px;
+    margin-right: 10px;
+}
+
+body{
+     background-color: rgb(255, 255, 255); 
+        width: 100%;
+}
+
+*{
+    background-origin: content-box;
+}
