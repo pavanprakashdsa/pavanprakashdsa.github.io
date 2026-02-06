@@ -33,7 +33,7 @@ a{
 }
 /*  */
 .text:hover{
-    border: 3px rgb(6, 172, 255) solid;
+    /* border: 3px rgb(6, 172, 255) solid; */
     /* background-color: black; */
     /* color: white; */
 }
