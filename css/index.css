@@ -49,3 +49,14 @@
     border-color: rgb(1, 238, 255);
     background-color:black
 }
+
+.gap{
+    margin-bottom: 20px;
+}
+
+.groups{
+   padding-top: 50px;
+   font-size: 20px;
+   text-transform: capitalize;
+   font-weight: 500;
+}
