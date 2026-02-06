@@ -4,9 +4,10 @@
 
 a{
     text-decoration: none;
+    font-size: 20px;
 }
 .content{
-    margin-top: 100px;
+    margin-top: 10px;
     height: 200px;
     margin-left: 20px;
     margin-right: 20px;
@@ -20,14 +21,14 @@ a{
 .text{
     /* asdas */
     border-radius: 20px;
-    padding-bottom: 30px;
+    padding-bottom:10px;
     text-align: center;
     text-decoration: none;
     font-weight: 900px;
     font-family: "popins", sans-serif;
     transition: background-color 0.5s, color 0.5s;
     border: 3px rgb(255, 255, 255) solid;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     transition: background-color .5s, color .5s, border 1s;
 }
 /*  */
@@ -41,6 +42,7 @@ a{
     margin-top: 0px;
     color: grey;
     margin-bottom: 30px;
+    font-size: 15px;
 }
 
 .head{
