@@ -1,3 +1,62 @@
-p{
-    font-size: 20px;
+*{
+     font-family: "Bungee", sans-serif;
+     font-size: 20px; 
 }
+body{
+    width: 100%;
+    margin-top: 20px;
+}
+h1{
+    font-size: 25px;
+    padding: 10px;
+    display: inline;
+    color: white;
+    background-color: black;
+    font-family: popins;
+    border: 3px rgb(1, 170, 255) solid;
+    border-radius: 15px;
+    font-weight: 900;   
+}
+
+
+
+.logojava{
+    position: relative;
+    top: +20px;
+}
+
+.logopython{
+    position: relative;
+    top: +20px;
+}
+
+
+.slogan{
+    position: relative;
+    top: 20px;
+    text-align: center;
+    border: 2px rgb(0, 255, 200) solid;
+    background-color: black;
+    color: yellow;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 5px;
+}
+
+.cheat:hover{
+    width: 1000px;
+}
+
+.heading{
+    text-align: center;
+    padding: 7px;
+    background-color: black;
+    color: yellow;
+}
+
+a{
+    color: red;
+    font-weight: 600;
+    text-decoration: none;
+}
+
