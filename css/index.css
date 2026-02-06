@@ -55,8 +55,10 @@
 }
 
 .groups{
+    color: rgb(35, 32, 32);
+    text-align: center;
    padding-top: 100px;
-   font-size: 20px;
+   font-size: 15px;
    text-transform: capitalize;
    font-weight: 500;
 }
