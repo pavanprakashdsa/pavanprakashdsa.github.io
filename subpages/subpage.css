@@ -18,7 +18,10 @@ h1{
     font-weight: 900;   
 }
 
-
+h2{
+    margin-left: 10%;
+    margin-right: 10%;
+}
 
 .logojava{
     position: relative;
@@ -38,8 +41,7 @@ h1{
     border: 2px rgb(0, 255, 200) solid;
     background-color: black;
     color: yellow;
-    margin-left: 300px;
-    margin-right: 300px;
+
     padding: 5px;
 }
 
