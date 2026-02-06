@@ -19,8 +19,9 @@ h1{
 }
 
 h2{
-    margin-left: 10%;
-    margin-right: 10%;
+    font-size: 30px;
+    color: rgb(50, 37, 10);
+    text-decoration: underline;
 }
 
 .logojava{
@@ -45,6 +46,9 @@ h2{
     padding: 5px;
 }
 
+.hi{
+    margin-top: 10px;
+}
 .cheat:hover{
     width: 1000px;
 }
